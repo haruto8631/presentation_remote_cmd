@@ -36,3 +36,5 @@ cl joycon_presentation_remote.cpp user32.lib hid_lib.lib /MD /D_AFXDLL
 ## その他
 - 一応exeとdllも入れてあります。
 - 何か問題があったら消します。
+- タイマー機能を着けるかもしれないです
+- GUIのアプリになるかもしれないです
