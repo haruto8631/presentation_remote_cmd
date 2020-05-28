@@ -13,12 +13,12 @@
 
 
 ## hid_dll.c
-kakoさん作のtiny_hid_dllをまねて作ったものです。
+kako様 作のtiny_hid_dllをまねて作ったものです。
 時々、2分の1の確率でhandleをとって来れない時間帯が生まれます
 
 
 ## joycon_presentation_remote.cpp
-kakoさん作のjoycon_test_v02.cを参考にして作ったものです。
+kako様 作のjoycon_test_v02.cを参考にして作ったものです。
 
 
 ## ビルド方法
